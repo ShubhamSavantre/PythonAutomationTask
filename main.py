@@ -84,6 +84,6 @@ class Guvi_Project:
 
 
 
-# guvi = Guvi_Project()
-# guvi.Log_in('savantreshubh@gmail.com', 'Shubh@m111')
-# guvi.Creat_query()
+guvi = Guvi_Project()
+guvi.Log_in('savantreshubh@gmail.com', 'Shubh@m111')
+guvi.Creat_query()
